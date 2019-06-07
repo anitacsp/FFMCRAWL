@@ -4,7 +4,7 @@ import sentimentAnalysis as SA
 import csv
 
 #Header for csv
-csvHeader = ["Title" ,"Neg ", "Neu" , "Pos" , "Composite" , "Link to article"]
+csvHeader = ["Title" ,"Neg ", "Neu" , "Pos" , "Compound" , "Link to article"]
 
 #sitemap from robots.txt
 xmlLink = "https://www.wsj.com/sitemaps/web/wsj/en/sitemap_wsj_en_index.xml"
