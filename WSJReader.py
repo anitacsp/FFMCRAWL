@@ -50,7 +50,7 @@ class WSJReader:
 
         for r in self.replacementWords:
             if r in cleanTitle:
-                print(r)
+                
                 store = r
                 country = store.replace(" ", "").upper()
 

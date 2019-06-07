@@ -22,12 +22,10 @@ class sentimentAnalysis:
         row =[title]
 
         for i in score:
-            print(score.get(i))
             row.append(score.get(i))
         
         row.append(url)
         return row
-
         
 
     pass

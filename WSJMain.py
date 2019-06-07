@@ -22,7 +22,7 @@ print("Get quarters")
 
 
 #opens designated file location 
-with open('wsjtest1.csv', 'w' , newline="") as file:
+with open('wsjSentiment.csv', 'w' , newline="") as file:
     writer = csv.writer(file)
     writer.writerow(csvHeader)
 
@@ -33,10 +33,10 @@ with open('wsjtest1.csv', 'w' , newline="") as file:
 
         for q in quarter:
             url = q.getText()
-            print("articles: "+ url)
+            #print("articles: "+ url)
             #extract title from url
             title = wsj.getTitle(url)
-            print(title)
+            #print(title)
             score = sentimentCheck.analyze(title)
             
             row = sentimentCheck.prettyRow(title, score, url)
