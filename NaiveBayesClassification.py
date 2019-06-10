@@ -1,12 +1,14 @@
 import re
 import numpy as np
 import pandas as pd
+import csv
 
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import accuracy_score
+from sklearn.metrics import confusion_matrix
 
 def normalize(text):
     #put all text to lower
@@ -30,28 +32,36 @@ samUse = sample[['Title', 'ESG', 'neg', 'neu', 'pos', 'compound']]
 
 #join both sets of data together
 allSample = esgUse.append(samUse)
+allSample['id'] = np.arange(len(allSample))
 
-#normalize all data
+#normalize all title
 allSample['nom'] = [normalize(text) for text in allSample['Title']]
+allSample.set_index('id', inplace=True)
 
+#transform text data to vectors
 vec = CountVectorizer()
-x = vec.fit_transform(allSample['nom'])
+#allSample['x'] = vec.fit_transform(allSample['nom'])
+x =vec.fit_transform(allSample['nom'])
+#cat.to_csv("test.csv", encoding ='utf-8')
 
-encode = LabelEncoder()
-y = encode.fit_transform(allSample['ESG'])
+#encode = LabelEncoder()
+#y = encode.fit_transform(allSample['ESG'])
+#allSample['y-axis'] = allSample['ESG']
 
-x_train, x_test, y_train, y_test = train_test_split(x,y, test_size = 0.2, random_state = 2)
-
-print(x_train.shape)
-print(x_test.shape)
-print(y_train.shape)
-print(y_test.shape)
+#split into train & test datasets
+x_train, x_test, y_train, y_test = train_test_split(x,allSample['ESG'], test_size = 0.2, random_state=1)
 
 baes = MultinomialNB()
 baes.fit(x_train,y_train)
-
-y_predicted = baes.predict(x_test)
-
+#baes.score(x_test, y_test)
 print(baes.score(x_test, y_test))
+print(confusion_matrix(y_test,baes.predict(x_test), labels = [0,1]))
 
-print(accuracy_score(y_test, y_predicted))
+sub = pd.DataFrame(data=y_test)
+sub['pred'] = baes.predict(x_test)
+
+output = pd.merge(allSample, sub, on = 'id')
+
+
+usableData = output[['Title','compound', 'ESG_x', 'pred']]
+usableData.to_csv('out2.csv')
