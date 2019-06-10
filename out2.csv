@@ -1,0 +1,460 @@
+id,Title,compound,ESG_x,pred
+8,China: WeChat Allegedly Censoring Users' Private Messages and Photos,0.0,1,1
+17,"S. Korea: Consumers Criticism for Growing Safety Concerns about Wall Cracks Appearing in Daegu
+Shinsegae Department Store",0.1531,1,1
+37,"China, Ping An Life Insurance: CNY 60,000 of CIRC Penalty to Subsidiary's Beijing Branch for
+Alleged Customer Fraud",-0.7783,1,1
+40,"Tianjin, Ping An Bank: CNY 500,000 Penalty of CBRC to Subsidiary for Alleged Failure
+to Perform Due Diligence in Pre-lending Investigation and Monitor Use of Funds",-0.743,1,1
+47,"Qingdao, China: CNY 200,000 Penalty to Subsidiary Ping An Bank's Branch by
+Regulator for Alleged Deficiencies in Bank Bill Operation",-0.4588,1,1
+48,"Xiamen, China: CNY 250,000 Penalty to Subsidiary Ping An Bank's Branch by
+Regulator for Alleged Deficiencies in Post Loan Management",-0.4588,1,1
+56,"Ulyanovsk, Russia: Villagers Protest Against Cement Factory Construction Over Potential
+Damage to Environment",-0.6369,1,1
+60,"New York: Summary Judgement Granted in Favor of the Company in an Employee Lawsuit Alleging Discrimination
+and Unpaid Wages
+",0.4215,1,1
+67,Alleged Environmental Violations in Mundra Port Project,-0.5267,1,1
+75,"Australia: Recall of 132 Units of 2003 Models of Volkswagen Golf, Passat, and Transporter Vehicles due to Alleged Faulty Airbag Inflator; No Injuries Reported",-0.5423,1,1
+76,Tennessee: UAW Lawsuit Filed with the NLRB Over Alleged Refusal to Create Workers' Bargaining Unit ,0.0516,1,1
+87,"Brazil: Volkswagen Appointed An Expert to Investigate Allegations of Torture of Employees During Former Military
+Government",-0.5994,1,1
+98,"Poznan, Poland: Workers Protest over Hike in Wages and Benefit",0.25,1,1
+102,Portugal: Strike over Proposal of Mandatory Saturday Shif,-0.0516,1,1
+108,"S. Korea: Recall of 2,000 Volkswagen Vehicles for Faulty Transmission Gears, and Certain Audi Vehicles for Defective Takata Air Bags; No Injuries Reported",-0.6486,1,1
+111,"Australia: Recall of 14 Passat and Five Arteon (2016-2018) Vehicles for Alleged Defective Panoramic Sunroofs; No
+Injuries Reported
+",-0.6249,1,1
+119,"United States: Recall of Around 3,300 Audi A3 and RS3 2018 Models for Problems with Latching Pins; No Injuries
+Reported",-0.2732,1,1
+120,"New Jersey: Federal Judge Approved USD 8.65 Million Settlement for Alleging Concealment of Timing Chain Defect in
+Volkswagen Vehicles; Appealed Settlement",0.1027,1,1
+125,"Product Recall (Australia): 55 Units of Audi '8V' A3 Model Vehicles over Potential Improper Placement and Welding of
+the Head Restraints to the Rear Seat Backrest; No Injuries Reported",-0.29600000000000004,1,1
+126,"Product Recall (Australia): Certain Units of Porsche Cayenne E-Hybrid 9YA Vehicles over Potential Improper Fitting or
+Mispositioning of Fuel Nozzle while Refueling Leading to Fuel Leakage into Tank System and Increased Risk of Fire
+Hazard; No Injuries Reported.",-0.3612,1,1
+134,"Florida: Lawsuit over Faulty Suspensions Causing Premature Degradation ""Tire Cupping"" of Tires on CC Model",-0.765,1,1
+137,"Audi [Worldwide]: Recall of Approximately 1.16 Million Vehicles Including Models Audi A5 Cabriolet, A5 Sedan, Q5,
+A6s, and A4 due to Faulty Electric Coolant Pumps that Could Overheat; No Injuries Reported; Additional Recall of
+6,639 Units of Audi's A4, A5, A6 and Q6 Models in Russia; Putative Class Action Suit Filed
+",-0.5423,1,1
+140,"Product Recall (Japan): 20,945 Units of Vehicles Including Beetle Car with a 1.2-Liter Engine over Inadequate Length
+of Electrical System Earth Cable Causing Potential Engine Stoppage; No Injuries Reported",-0.5994,1,1
+149,"Audi: Recall of 139,249 Sedans over Faulty Sensor Potentially Preventing Front Passenger Airbag Deployment; No
+Injuries Reported",-0.5574,1,1
+158,"Audi: German Prosecutors Probe into Alleged Falsification of Documents for Approval to Export Vehicles to South
+Korea",0.4767,1,1
+161,"U.S. Immigration Detention Centers: Allegations of Poor Management, Inadequate Supervision, and Unsatisfactory Prison Services",-0.8909999999999999,1,1
+165,"Trousdale Turner Correctional Facility, Tennessee: Certified Class Suit over Alleged Inadequate Medical Assistance for
+Diabetic Detainees",-0.4019,1,1
+169,"Cibola County Correctional Center, New Mexico: ACLU Petition for Medical Access",0.0,1,1
+177,"Kansas, United States: Alleged Religious Discrimination in Detention Center",0.0772,1,1
+181,Texas: Eden Detention Center,-0.3612,1,1
+186, Sterlite moves SC for access to closed copper plant in Tuticorin. ,0.0,1,1
+190, Vedanta moves SC for directions to pollution board on renewing copper plant licence,0.0,1,1
+192, Anti-Sterlite protest: Notice to CBI on plea seeking probe into police firing,-0.5267,1,1
+194, HC reserves orders on plea seeking quashing of clearance for Vedanta plant,0.0,1,1
+200, Odisha Mining Corp gets forest clearance to develop new bauxite mine in Kodingamali. ,0.0,1,1
+201," Why the World’s Largest Sovereign Wealth Fund is Leaving Indian Companies in the Cold and What That Tells Us About
+Make in India",0.4939,1,0
+202,Deal sparks hopes for Vedanta's Lanjigarh plant ,0.4215,1,1
+220,Hydrocarbon project: Shops down shutters.,0.0,1,1
+223,One dead in suspected gas leak at Bokaro ESL plant,-0.8225,1,1
+231,Mining company admits workplace safety charge over Mt Lyell workers' deaths,0.6124,1,1
+236," Axe falls on Mt Lyell copper mine on Tasmania’s West Coast, with loss of 200 jobs",-0.4019,1,1
+241,"Sesa Merger Was Tax Evasion Device by Agarwal, India Alleges",0.0,1,1
+242, SC dismisses Vedanta’s plea against tax by Karnataka on iron ore sales ,0.0,1,1
+258," Cops register FIRs against BJP, Cong, directors of 2 firms",0.0,1,1
+260,"Fuzhou, China: Fuzhou R&D Center Employees Claimed Being Wrongfully Dismissed",0.0,1,1
+270,"500,000 Online Storage Accounts Breached, User Files Deleted, Loaded with Indecent Content ",0.0,1,1
+275,Baidu is named as one of the companies with problems of false advertisement,-0.4019,1,0
+282, Ministry of Culture Investigated 27 Websites Over Alleged Vulgar Content. ,0.0,1,1
+285,Credit Suisse among banks probed on in selling about $2 billion of bonds for Mozambique.,0.3818,1,0
+292,Master Settlement Reached in Mesh Litigation,-0.1027,1,1
+297,"Product liability
+lawsuits had been consolidated in multi-district litigation (MDL 2326) in West Virginia",-0.4939,1,1
+299,FDA Probes Safety of Vaginal Mesh Implants,0.4215,1,1
+301,Boston Scientific Transvaginal Mesh Lawsuit Trial Ends With $100 Million Verdict,-0.0772,1,1
+303,"Juries Rule Against Pelvic Mesh Makers J&J, Boston Scientific. ",0.0,1,1
+304," BOSTON SCIENTIFIC: Faces 24,000+ Transvaginal Surgical Mesh Cases",0.0,1,1
+306,"Boston Scientific ordered to pay $26.7million to four women after it is found liable for selling faulty transvaginal medical
+devices that 'caused pain during sex'",-0.7184,1,1
+309,Jury hands Boston Scientific $73.5M defeat in mesh case,-0.4588,1,1
+321, Odisha's Fresh Move to Mine Niyamigiri Opposed,0.3182,1,1
+325, Vedanta says no bauxite mining at Niyamgiri till local nod. ,-0.29600000000000004,1,1
+329, TN govt opposes Sterlite plea to carry out maintenance work at Tuticorin plant. ,0.0,1,1
+331,SC stops reopening of Sterlite Copper plant in Tuticorin,-0.1531,1,1
+335,"Sterlite plant shut down: Days after Thoothukudi deaths, Tamil Nadu government orders closure of Vedanta group’s unit",0.0,1,1
+347,Farmers resume stir against hydrocarbon extraction move,0.0,1,1
+348,"Vedanta, ONGC get nod for oil exploration, Opposition criticises Centre",-0.1027,1,1
+351, Announcement of a fatality following an accident at Skorpion Zinc ,-0.8225,1,1
+353," Why the World’s Largest Sovereign Wealth Fund is Leaving Indian Companies in the Cold and What That Tells Us About
+Make in India",0.4939,1,0
+366,Two men killed at Tasmanian copper mine.,-0.6705,1,1
+367,Top court to hear case alleging tax evasion as motive for Sesa Sterlite merger. ,0.2023,1,1
+368, SC to hear plea against Sesa Goa-Sterlite merger in end-September,0.0,1,1
+370,Foreign firms can now fund parties.,0.4019,1,1
+372,"Cops register FIRs against BJP, Cong, directors of 2 firms",0.0,1,1
+375,ARCTIC INDIGENOUS LEADERS TELL CARNIVAL CORPORATION: STOP POLLUTING THE ARCTIC. ,-0.29600000000000004,1,1
+382, Vacationers on cruise ship stuck for 2 days in Tampa port.,-0.25,1,1
+389,Coast Guard searches for man overboard from cruise ship.,0.0,1,1
+396," Cruise Line Receives Kickbacks, Wolfe Suit Claims",0.0,1,1
+398,Costa Concordia disaster: Italian court upholds captain's conviction,-0.6249,1,1
+400,Three contractors pleaded guilty for the accident at HZMB working station.,-0.7096,1,1
+403, Investigation report on 4·13 major accident in Dongguan. ,-0.4767,1,1
+406,"Dongguan construction shed collapse, six workers trapped and six other rescued. ",-0.5859,1,1
+414,Locals concern about environmental & land impacts and lack of public consultation over Chinese projects.,-0.3182,1,1
+415," Seven killed, two injured as crane topples over.",-0.802,1,1
+418,Stone quarry firm ordered to follow rules.,0.0,1,1
+421,Arbitrator grants some protective relief for Centerra in ongoing Kyrgyz legal saga,0.6705,1,1
+428, Gold mining firm told to improve dialogue in Mongolia. ,0.4404,1,1
+432, Gold mining firm told to improve dialogue in Mongolia. ,0.4404,1,1
+439,Centerra Gold Inc. must be punished if violations proven - Minister. ,-0.7506,1,1
+447,CJ Logistics workers staged a week full strik,0.0,1,1
+453,A delivery man killed for over time. ,-0.6705,1,1
+468, STXNEWS LATAM-Agency alleges CSN hid toxic elements in worker compound,-0.1027,1,1
+480,State-owned Coal India set to shut down high-risk mines,0.0,1,1
+484, HC asks DGMS to verify actual death toll,-0.5994,1,1
+486, CPI demands arrest of Lalmatia culprits,-0.34,1,1
+508,Coal lust lowers heat of fiery flames for Jharia settlers,-0.4404,1,1
+513,Talcher Coalfield mines shut down for locals stir,0.0,1,1
+535,Kaniha coal mine paralysed for five days. ,0.0,1,1
+537,West Burdwan: Two workers die after chunk of roof collapses in colliery,-0.7269,1,1
+546,"Nexen given $750,000 in fines for 2015 pipeline spill near Fort McMurray.",0.0,1,1
+547,Alberta energy regulator charges Nexen over 2015 pipeline spill,0.0,1,1
+553,Alberta regulator lets Nexen reopen some Long Lake pipelines.,0.0,1,1
+555,"Regulator in Canada's Alberta shuts in 95 Nexen pipelines over ""noncompliance""",0.0,1,1
+558,How a Chinese Company Slipped on Canada's Oil Sands,0.0,1,1
+560," Nexen Energy pipeline in Alberta began leaking between June 29 and July 15, company says",0.2732,1,1
+563,Dead duck found at Alberta site of Nexen pipeline spill.,-0.6486,1,1
+569,"Nexen apologizes for oil sands pipeline spill, cause unknown. ",0.3612,1,1
+572, Energy regulator investigating pipeline spill at Long Lake.,0.2732,1,1
+573,Nexen Energy pleads not guilty in oilsands explosion that killed two workers,-0.2658,1,1
+585,"Texas suburb ends contract with immigrant detention centre ; Texas suburb ends contract with immigrant detention
+centre. ",-0.6124,1,1
+586," US: Poor Medical Care, Deaths, in Immigrant Detention",-0.34,1,1
+587, CORECIVIC: Sued for Violating Anti-Human Trafficking Law,-0.5423,1,1
+589,National Immigrant Justice Center Issues Statement on Indiana Immigration Prison Proposal.,0.0258,1,1
+592,CORECIVIC: Attorney Seeks to Probe Detention Center Conditions,-0.3612,1,1
+598," Fleeing violence, finding detention: One family’s year in US lock-up",-0.765,1,0
+607,"CORECIVIC: ""Dodson"" Suit Asks Court to Certify Diabetics Class",0.0,1,1
+613,"Immigrant Rights Advocates Secure Release of Asylum Seeker Separated from Son and Held in Immigration Jail for Nearly
+Two Years. ",0.34,1,1
+614,ACLU Petitions Court to Release Detainee for Critical Medical Treatment,-0.3182,1,1
+615," Lawsuit: Former Leavenworth prison guard filed complaints, threatened with dead rat. ",-0.9349,1,1
+619,New NIJC Report Exposes Rampant Due Process Violations at New Mexico Immigration Prison. ,-0.802,1,1
+620,APNewsBreak: Prison group faces lawsuit over immigrant wages. ,-0.6369,1,1
+625," Guard called Muslim headscarf a 'rag,' Kansas prison discriminates, rights group says",-0.5106,1,1
+627,: CORECIVIC OF TENNESSEE: Bid to Intervene in Gonzalez Suit Denied,-0.4404,1,1
+634, Feds Ending Five Private Prison Contracts in Texas,-0.5106,1,1
+636,Collective Complaints from Owners Saying Country Garden has Dug a Five Star Pit for Them,-0.4019,1,1
+643,Domino's new pay deal derailed over failure to bargain in good faith,0.1027,1,1
+644,Fair Work terminates Domino’s worker agreements.,0.5267,1,1
+650,Suspended Philippine nickel miner plans to restart in policy test,-0.4767,1,1
+653,DMCI may shut nickel mining operations,0.0,1,1
+655,House to probe DMCI's coal-fired power plant in Palawan,0.0,1,1
+660,Philippines: IP community deals with violence and deaths after declining to give consent to the operations of a coffee plantation; some companies respond. (Business & Human Rights Resource Centre,-0.4939,1,1
+674,Dish Network Can't Duck $61M Treble Damages In TCPA Row,-0.4404,1,1
+678,Mexico supreme court to define Televisa status in pay-TV segment.,0.5574,1,1
+680,"Televisa not dominant player in Mexican pay-TV, says watchdog",0.0,1,1
+683,Mexico's Televisa faces bribery accusations in US court,-0.3182,1,1
+685,"Televisa, Globo paid FIFA bribes for 2026/2030 World Cup rights -trial witness",0.0,1,1
+700,More Equifax info exposed than originally disclosed after breach.,-0.14400000000000002,1,1
+701,SCHATZ LEADS GROUP OF 31 SENATORS IN DEMANDING ANSWERS ON REPORTS OF CFPB'S STALLED INVESTIGATION INTO EQUIFAX BREACH,-0.6329,1,1
+703,Report That Mulvaney Pulled Back on CFPB's Equifax Investigation Is Alarming.,-0.128,1,1
+705,Equifax Responds to Donnelly/Heller Call to Provide Servicemember-Specific Tools for Those Impacted by Data Breach.,0.0,1,1
+708,"MDL 2800: Equifax Faces ""Kishel"" Suit over Consumer Data Breach.",0.0,1,1
+712,DEADLINE LOOMS FOR EQUIFAX DATA BREACH VICTIMS,-0.4404,1,1
+713,Equifax Canada seeks to regain trust in its security after major U.S. breach,0.6908,1,1
+719,"EQUIFAX INC: Faces ""Whittington"" Suit in N.D. Georgia",0.0,1,1
+724,EQUIFAX JUDGE PROVIDES UPDATES IN CLASS-ACTION BREACH SUIT.,0.0,1,1
+726,EQUIFAX INC: Intends to Fight Data Breach Class Actions,-0.3818,1,1
+730,EQUIFAX INC: Data Breach Class Actions May Be Consolidated,0.0,1,1
+737,"EQUIFAX INC: Faces ""Christensen"" Suit over Data Breach",0.0,1,1
+749,"New York, Illinois launch probes into Equifax cyber breach.",0.0,1,1
+761,EQUIFAX INFORMATION: Davis Sues over Background Checks.,0.0,1,1
+763,EXPERIAN INFORMATION: Court Amends Class Settlement Judgment.,0.0,1,1
+766,EQUIFAX INFORMATION: Inscho Sues over Background Check,0.0,1,1
+767,EQUIFAX INFORMATION: Gould Sues over Background Checks,0.0,1,1
+771,"United States Courts Opinions: United States District Court Eastern District of Pennsylvania: CHRISTINA P. JOHNSON, Plaintiff, v. EQUIFAX INFORMATION SERVICES, LLC",0.6808,1,1
+772,Privacy International files complaints against seven companies for wide-scale and systematic infringements of data protection law,-0.4019,1,1
+774,Kroger employees file class action against Equifax over W-2 breach,0.0,1,1
+804,Giving in to our wage demand will cost Eskom less than protest damages - unions,-0.3523,1,1
+807,Eskom denies its live customer database has been exposed online - but the security specialist who found it disagrees.,-0.2263,1,1
+808,Researcher reveals data leak at South Africa’s main electricity provider.,-0.34,1,1
+812,"R659m Tegeta bill 'startling', but bosses gave order to pay - official.",-0.1531,1,1
+813,"Eskom official instructed to make payment to Tegeta 'within 3 hours', State capture commission hears",0.0,1,1
+816,"‘Illegal or not, Eskom has no right to reclaim R600m from us",0.2235,1,1
+820,3 new Eskom executives face hearings over Trillian,0.0,1,1
+825,Explosive forensic investigation exposes Koko’s shady deals – report,-0.128,1,1
+833,FGV dismisses WSJ allegations,0.0,1,1
+839,Clarification on Media Report,0.0,1,1
+840,"FGV refers group president, CFO to domestic inquiry panel.",0.0,1,0
+845,FERC Announcing Investigation into Energy Transfer’s Rover Pipeline.,0.2732,1,1
+849,ETP project blocked in Ohio.,-0.2732,1,1
+851,Bayou Bridge Pipeline to ask 5th Circuit if it can resume work,0.0,1,1
+852,U.S. Judge Halts Construction of Controversial Louisiana Oil Pipeline,-0.2023,1,1
+854,Bayou Bridge Pipeline company has Ohio project blocked,-0.2732,1,1
+857,U.S. court dismisses Energy Transfer Partners lawsuit against Greenpeace,0.0516,1,1
+861,Judge allows tribes to challenge Corps’ Dakota Access study,0.0772,1,1
+870,Tribe says it's being left out of Dakota Access study,0.0,1,1
+880,"In Victory for Standing Rock Sioux Tribe, Court Finds That Approval of Dakota Access Pipeline Violated the Law",-0.0772,1,1
+881,"After storms, fights and months of delay, the Dakota Access Pipeline finally opens",-0.6124,1,1
+888,"10 arrested, 2 injured as police clear Dakota Access protest camp",-0.6369,1,1
+891,"Pipeline pressure; Dallas-based company sues in effort to finish project as activists, Sioux tribe protest it",-0.4939,1,1
+893,Dozens of demonstrators arrested at North Dakota pipeline.,-0.4767,1,1
+894,UPDATE 2-Canada-U.S. oil pipelines resume operations after activists halt flow,0.0,1,1
+895,pipeline case set to be heard by DC court,0.0,1,1
+906,:Occupying the Prairie: Tensions Rise as Tribes Move to Block a Pipeline,-0.6808,1,1
+913,CSB Deploying to Site of Hot Work Incident that Injured Seven Workers in Texas,-0.4019,1,1
+918,reported to have manipulated diesel car exhaust emissions.,-0.5859,1,1
+919,"Many car brands emit more pollution than Volkswagen, report find",0.0,1,1
+920,High emissions levels found in more car models in Germany.,0.0,1,1
+921,Germany asks Opel for more information in Zafira emissions probe,0.0,1,1
+924,Jurisdictions Disputes in Ignition Switch Suit Resolved,-0.1027,1,1
+925,Attorney General Hunter Announces Settlement with General Motors over Defective Ignition Switch.,-0.4404,1,1
+926,U.S. judge dismisses GM ignition switch criminal case.,-0.5267,1,1
+931,GM Faces $1 Billion Reckoning in Disputed Ignition-Switch Settlement,-0.34,1,1
+943,Government ends oversight of GM related to defective part,-0.4404,1,1
+948,car's ignition switch not to blame in fatal crash.,-0.6327,1,1
+955,ignition-switch compensation fund approves 121 fatality claims,-0.4215,1,1
+957,DEATH TOLL REACHES 111,-0.5719,1,1
+968,to recall 2.5m cars in China over faulty airbags,-0.3182,1,1
+969,China urges foreign carmakers to take action on faulty air bag,-0.3182,1,1
+970,Still Defending 9 Class Suits Over Takata Airbag,0.0,1,1
+972,ix automakers to recall nearly 2.5 million US vehicles over Takata airbag,0.0,1,1
+987,GM Korea refuses talks with union over R&D separation,0.0,1,1
+990,GM Korea cancels news briefing as temporary workers storm venue.,-0.2263,1,1
+993,"plant shutdown faces backlash, causes of losses questioned",-0.4767,1,1
+995,"India exit leaves dealers, customers in a quandary",0.0,1,0
+1000,GM says it will phase out cars without air bags. (Associated Press) 14 Apr 2016: Global NCAP Calls On GM To Urgently Address Zero Star Safety In Latin America,0.4215,1,1
+1005,Parents file suit against GM after fatal accident involving Chevy Malib,-0.765,1,1
+1006,Workers at General Motors' Ingersoll plant to vote for tentative agreement to end four-week strike,0.4019,1,1
+1009,Striking GM workers face threat of production shift to Mexico ; Auto maker had already moved some Chevrolet Equinox output south ahead of walk off at Cami facility,-0.5267,1,1
+1010,Autoworkers Go on Strike Against G.M. In Canada,-0.128,1,1
+1011,UPDATE 1-GM will recall more than 3.3 mln vehicles in China - market regulator,0.0,1,1
+1012,GM to recall about 1.2 million vehicles worldwide,0.0,1,1
+1017,190 contractual workers lose jobs over hike demand.,-0.4939,1,1
+1020,Court Dismisses Defective Sunroofs Suit,-0.4404,1,1
+1027,How electric car & tech companies could be using child labour-mined cobalt from small-scale miners in Dem. Rep. of Congo; includes companies' comments. (Business & Human Rights Resource Centre,0.0,1,1
+1028,Electric car companies still powering human rights abuses,-0.5574,1,1
+1032,"State finds GM failed to address nooses, racial slurs at Toledo Transmission plant",-0.5106,1,1
+1036,Seeks Dismissal of Blind Zone Alert Class Action,-0.128,1,1
+1037,Car Owners Sue Over Defective Engine Oil System.,-0.4404,1,1
+1045,Michigan Judge Upholds Emissions-Cheating Claims.,0.0,1,1
+1047,GM denies allegations that it cheats on diesel emissions,-0.6808,1,1
+1051,General Motors recalls some pickups and SUVs over brakes.,0.0,1,1
+1053,Keyless cars causing dozens of deaths,0.0,1,1
+1065,Financial authorities reviewing accounting practices of GM Korea.,0.0,1,1
+1081,andrew cuomos tax epiphany,0.0,0,0
+1084,a social justice mob takes montreal,0.5267,0,0
+1090,gas everywhere but no way to ship it,-0.4215,0,1
+1093,where residents pay buckets of money for water,-0.1027,0,1
+1094,US efforts in niger have paid off commander says,0.0,0,0
+1097,feeding babies in china is a booming business again,0.0,0,0
+1102,photos a monster trucks big comeback,0.0,0,0
+1103,game of thrones season 8 a song of ice and fire and disappointment,-0.6908,0,1
+1109,dockworkers walk out of labor talks,0.0,1,0
+1114,a manhattan couples custom living room,0.0,0,0
+1115,brazilians denounce their leader but economists offer praise,0.6369,0,0
+1116,corrections amplifications,0.0,0,0
+1123,new barriers to replace aging border wall in california,0.0,0,0
+1124,review the cruel and the kind,-0.1027,0,0
+1125,saudi arabia russia close in on deal to lift oil output,0.0,0,0
+1130,italy offers bank bailout despite past pledges,-0.1027,0,0
+1132,US manufacturing pmi falls to nine month low,-0.2732,0,0
+1143,nixon now more than ever,0.0,0,0
+1144,local officials should greet the president,0.3182,0,0
+1146,ism US nonmanufacturing activity kept expanding in march,0.0,0,0
+1147,US government bonds edge higher before fed rate decision,0.0,0,0
+1152,connecticut lawmakers reach preliminary budget deal,0.0258,0,0
+1156,neverland revisited,0.0,0,0
+1158,poll shows majority of new yorkers have low opinion of raises for state lawmakers,-0.2732,0,0
+1165,army hopes new futures command will speed development acquisition,0.4215,0,0
+1179,morgan stanley seeks to manage more of its clients wealth,0.4939,0,0
+1181,on the ballot in nigeria how to manage oil money,0.0,0,0
+1189,the treasury market is having a senior moment,0.2023,0,0
+1199,merkel gets ultimatum on immigration challenge,0.0772,0,0
+1206,a late 2017 tax plan could spell trouble for your 2018 paycheck,-0.4019,0,0
+1213,france moves to lure bankers to paris after brexit,0.0,0,0
+1217,equifax says data breach possibly affected 100 000 canadian consumers,-0.1531,1,1
+1218,dollar remains in range on rising uncertainty,-0.34,0,0
+1220,private sector added 227 000 jobs in october,0.0,0,1
+1224,the chef who left his kitchen to keep off 200 pounds,0.0,0,0
+1227,teen duo behind slik to present moneymaker at y combinator,0.0,0,0
+1228,florida arizona and oklahoma hold primaries for midterms,0.0,0,0
+1237,snap gets popped again,0.0,0,0
+1238,senior aide to canadas trudeau resigns amid political storm,-0.3182,0,0
+1243,the great brexit breakdown,0.6249,0,0
+1244,bad forest management robs those green carbon banks,-0.7579,0,1
+1256,companies tout tax benefits as earnings season begins,0.2732,0,0
+1262,justice lawyer criticized by trump allies was never involved in russia probe,0.2263,0,0
+1265,brooks koepka bryson dechambeau tie for early masters lead,0.0,0,0
+1268,forest city to exit shopping center business in latest deals,0.0,0,0
+1271,north korea to meet for talks with US south korean delegations in helsinki,0.0,0,0
+1272,disney rehires guardians of the galaxy director james gunn,0.0,0,0
+1273,measles cases continue to grow with 71 new cases,0.0,0,1
+1276,real estate stocks in high demand as trade battle brews,-0.4767,0,0
+1279,light and darkness and young adult books,-0.25,0,1
+1282,little ladies victorian fashion dolls and the feminine ideal review an eras expectations in miniature,0.5267,0,0
+1283,dont trust the chinese to make microchips for the military,-0.4023,0,0
+1286,new york judges lawyers want ice officials out of courts,0.0772,0,0
+1287,an alliance worth keeping,0.2263,0,0
+1293,US government bond prices edge higher amid stock selloff respite,0.0,0,0
+1296,platinum sinks to near decade low after threat of auto tariffs,-0.6705,0,0
+1301,felony charge against oil deal lawyer dismissed,-0.5423,0,1
+1318,trump should give thanks not take credit for economic growth,0.5132,0,0
+1322,russia blames israel for military plane shot down over syria,-0.4019,0,0
+1335,iran tests ballistic missile amid US tensions,-0.4019,0,0
+1336,dallas police chief fires officer involved in fatal shooting,-0.5423,0,0
+1338,guggenheim partners spins out 13 billion unit to executive following lawsuit,-0.2263,0,1
+1348,no wynn situation looks a no win for investors,0.1027,0,1
+1355,guggenheim partners asset management unit is under sec investigation sources say,0.3612,1,1
+1357,software robots power surging values for three little known startups,0.4019,0,0
+1358,migrants rescued by cargo ship refuse to get off in libya,0.1531,0,1
+1367,the portuguese kid review a comedy of bad manners,-0.25,0,0
+1373,italys elections appear to have yielded a hung parliament exit polls,0.0,0,0
+1374,mueller report reveals extent of trumps involvement in russia tower plans,0.0,0,0
+1382,oil falls on increasing supply,0.0,0,0
+1387,US trade panel backs solar tariffs,-0.0516,0,0
+1388,merkels stingy tax reform,-0.3818,0,0
+1400,killings shake south africas ruling party ahead of leadership contest,-0.5423,0,0
+1406,treasury secretary steven mnuchin gop tax plan would more than offset its cost,0.2023,0,0
+1408,in ncaa championship beware of free range big men,0.7351,0,0
+1409,US imposes embargo on arms to south sudan,-0.1027,0,0
+1412,new york lawmakers to vet interim attorney general candidates,0.0,0,0
+1414,review all stars in the kitchen,0.0,0,0
+1417,french antigovernment protesters march for ninth straight weekend,0.0,0,1
+1427,to break into the grammys netflix went old school vinyl,0.0,0,0
+1429,gold edges down after US jobs report,0.0,0,0
+1437,madison avenue veteran mark penn is in talks to be ceo of mdc partners,0.0,0,0
+1439,djs get into streaming revenue mix,0.0,0,0
+1446,house passes bill to impose new sanctions on russia,-0.29600000000000004,0,0
+1447,nfl owners decline to change anthem policy,0.0,0,0
+1454,chairman of alibaba affiliate ant financial steps down,0.0,0,0
+1457,occidental ceo says revised bid for anadarko was needed to win,0.5859,0,1
+1476,mobile money heats up in india as google doubles down,0.0,0,0
+1482,mark zuckerberg resolves to fix facebook in 2018,0.1779,0,0
+1487,target expands plans to remodel existing stores,0.1027,0,1
+1488,thousands gather for nypd officer miosotis familias funeral,-0.3612,0,0
+1489,perfumania seeks bankruptcy protection,0.0,0,1
+1501,fire up the flavor old school techniques for a tastier turkey,-0.34,0,0
+1504,dry the starting tear for pess bankruptcy,0.0,0,0
+1505,tillerson urges myanmar to end horrors against muslim minority,-0.5719,0,0
+1507,nanae yamano thunder fan artist big in japan bigger in oklahoma city,0.3182,0,0
+1513,trump vs a republican senate,0.0,0,0
+1517,republicans democrats dispute white house view that campaign informant was improper,-0.4019,0,0
+1518,judge dismisses stormy daniels defamation suit against trump,0.0,0,1
+1519,exxon shell bp to join group to cut emissions from natural gas,0.3818,0,1
+1520,a ruined hungarian palacerescued,-0.4767,0,0
+1526,new cyberattack on cryptocurrency investors came from north korea report says,0.0,0,0
+1533,a stately tudor with views of new york,0.0,0,0
+1535,volkswagen vows to overtake tesla with worlds largest electric car fleet,0.0,0,0
+1546,blue aprons bounce may cause indigestion,0.0,0,0
+1550,arkema to ignite additional unstable chemicals at crosby texas plant,-0.3612,1,1
+1551,prominent tech investor is leaving tiger global,0.3182,0,0
+1555,goodbye nafta hello usmca musca aeumc yoUSmacka,0.0,0,0
+1570,how a heated immigration debate might affect grandmas care,0.4939,0,0
+1583,US dollar edges lower,-0.29600000000000004,0,0
+1591,oil rises amid signs of falling saudi output,-0.1531,0,0
+1593,the rodarte designers on their debut feature film,0.0,0,0
+1615,underbug review termites and us,0.0,0,0
+1617,is your stockpicker lucky or good,0.6908,0,0
+1632,flush with ideas bill gates pursues the toilet of the future,0.0,0,0
+1633,the return of 3 growth,0.3818,0,0
+1634,why take two needs red dead to stay alive,-0.4019,0,0
+1636,nordstrom reports weaker same store sales growth net sales increase,0.25,0,0
+1657,french labor strikes pose a test to macrons overhauls,-0.3612,0,0
+1662,era of peak tv continues with 487 scripted shows in 2017,0.0,0,0
+1665,what is chinas leader thinking,0.0,0,0
+1674,legal fund aiding trump associates raised 180 000 in second quarter,0.128,0,0
+1685,prosecutors expand corruption investigation of college basketball,0.3182,0,1
+1688,china sentences taiwan activist to five years,0.0516,0,1
+1695,eus strict new privacy law is sending more ad money to google,0.0,0,0
+1696,the chrysler buildings mark on new yorks skyline and pop culture,0.0,0,0
+1697,dour growth outlook sends key european rate negative,-0.2732,0,0
+1710,fox and comcast on collision course over big ten network,-0.3612,0,1
+1712,supreme court takes split approach in latest trump travel ban ruling,0.0,0,0
+1714,mideast US bloc spoiling for conflict with iran top diplomat says,-0.128,0,0
+1728,UK government fires defense secretary gavin williamson over huawei leak,-0.2263,0,1
+1729,murray energy opens debt talks with bondholders,-0.1027,0,0
+1730,trump duterte strike up a friendship sidestep thorny issues,0.0772,0,0
+1734,why im swapping my iphone for an alarm clock from 1939,-0.34,0,0
+1735,if youre thinking about retiring in spain,0.0,0,0
+1742,apple and the art of the buyback,0.0,0,0
+1744,grapes of union wrath,0.0,0,1
+1746,new york citys constraints on development less than other big cities,0.0,0,0
+1750,copper ticks lower following wednesday surge,-0.29600000000000004,0,1
+1758,apples china ties make it vulnerable if trade fight gets worse,-0.765,0,0
+1761,facebook abandons plans to change share structure avoiding lawsuit,-0.5267,1,1
+1763,nasa says goodbye to mars rover opportunity,0.4215,0,1
+1771,match group rolls in the deep,0.0,0,0
+1773,secs lone democratic member expected to step down in fall,-0.2732,0,0
+1786,after strikes assad seeks to show normalcy,-0.3612,0,1
+1788,lehmans lessons 10 years later,0.0,0,0
+1804,summertime stock picks,0.0,0,0
+1812,versum materials rejects mercks bid,-0.4939,0,1
+1813,one year after vix blowup investors still feel sting of volatility bets,0.0,0,0
+1814,buffett sees a lot to dislike in US companies,-0.3818,0,0
+1816,five best aatish taseer on travels into the past,0.6369,0,0
+1817,blogger charles johnson pursuing defamation claim against gawker,0.0,0,0
+1820,the secret inside tiffanys blue box reed krakoff,0.0,0,0
+1825,danger ahead for the eurozone,-0.5267,0,0
+1826,trump widely disparaged abroad has lots of fans in venezuela,-0.34,0,0
+1828,why no one wants to back the gun of the future,-0.5574,0,0
+1832,abraaj founder scrambles as empire teeters,0.0,0,0
+1833,glenn close shares a few of her favorite things,0.6369,0,0
+1835,little reason to watch comcast and verizon,0.0,0,0
+1843,first timeline new zealand shooter was active for more than 30 minutes,0.4019,0,0
+1853,amazon effect sparks deals for software tracking firms,0.1779,0,1
+1856,canadas china envoy questions US position in huawei case,0.0,0,0
+1859,push to give felons the vote shifts to iowa and kentucky,0.0,0,0
+1866,literature behind bars,0.0,0,0
+1868,the exercise that helps mental health most,0.3818,0,0
+1871,a guide to nashvilles chicest new neighborhood,0.0,0,0
+1880,notre dam cathedral burns in paris,0.0,0,0
+1885,congress to consider raising tobacco buying age to 21,0.0,0,0
+1887,oil price forecasts fall but point to rises for first half of year,0.0,0,0
+1896,morgan stanley gets its turn in the penalty box,-0.4588,1,0
+1908,viewers pelosi applaud trump,0.4588,0,0
+1909,alabama executes inmate after supreme court 5 4 refuses to intervene,0.5574,0,1
+1917,more auto makers sued over exploding takata air bags,0.0,0,1
+1919,mulvaney likely to stick around at the cfpb for a while,0.0,0,0
+1924,uber granted new london license by UK court,0.3167,0,1
+1939,utility sale could leave taxpayers with 4 billion of nuclear debt,-0.4019,0,0
+1941,apples new ipad pro great tablet still cant replace your laptop,0.6249,0,0
+1943,europes investment banks suffer american envy,-0.6808,0,0
+1952,aegean marine wins court approval for bankruptcy financing,0.7783,0,0
+1964,corrections amplifications,0.0,0,0
+1966,oil climbs ahead of official US stockpile data,0.0,0,0
+1971,icahn sues amtrust over deal to go private,0.0,0,1
+1974,doj watchdog report does little to quelldissension over clinton email probe,0.0,0,1
+1985,oil prices stabilize after trump tweet turmoil,-0.3612,0,0
+1986,fortress hires deutsche hedge fund team amid legal complaint,-0.1779,0,0
+1992,south koreas cryptocurrency crackdown isnt stopping this bitcoin exchanges launch,0.1139,0,0
+1994,gold lower on eased US north korea tensions,-0.4019,0,0
+1998,verizon dials up wireless revenue growth,0.3818,0,0
+2024,silicon valleys favorite payments company cashes in,0.4588,0,0
+2027,trump defends west wing turnover i like conflict,0.0516,0,0
+2032,god save texas review a lone star state of mind,0.4939,0,0
+2035,the controversial text that saved me,0.25,0,0
+2038,trump administration proposes 4 4 trillion budget for fiscal 2019,0.0,0,0
+2040,in plea deal flynn acknowledges working for turkish government,0.0,0,1
+2044,mnuchin comments on brexit and debt ceiling at house hearing,-0.3612,0,0
+2046,collagen a wrinkle cream staple catches on in foods,0.0,0,0
+2047,sears still has its biggest fan,0.3182,0,0
+2051,missouri senate passes bill to ban abortions at 8 weeks,-0.5574,0,0
+2052,thats amour falling for a citroen deux chevaux,-0.1531,0,0
+2061,trump backs letting military academy athletes go pro immediately,-0.0516,0,0
+2082,feds beige book shows solid regional economic conditions,0.1531,0,0
+2084,trump releases names of two service members returned from north korea,0.0,0,0
+2088,the challenge for vanguards new ceo keep a behemoth growing,0.25,0,0
+2094,next month the people vote on kavanaugh,0.0,0,0
+2097,allergan that 15 billion sure went fast,0.3182,0,1
+2103,religious and political leaders react to billy grahams death,-0.5994,0,0
+2113,acting dea chief rebuts trumps remarks on police use of force,0.0,0,0
+2119,slowing cigarette sales push altria to explore other opportunities,0.3818,0,0
+2137,former new jersey governor brendan byrne dies,0.0,0,0
+2143,for kraft heinz a chance for a fresh start,0.5106,0,0
