@@ -13,6 +13,8 @@ class sentimentAnalysis:
         self.analyzer = SentimentIntensityAnalyzer()
 
     def analyze(self, sentence):
+        #print(sentence)
+        #print(type(sentence))
         score = self.analyzer.polarity_scores(sentence)
          
         return score
