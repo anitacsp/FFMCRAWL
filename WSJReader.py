@@ -23,7 +23,7 @@ class WSJReader:
     def quarterIndex(self):
         content = self.getPage()
         urlList = content.findAll('loc')
-
+        
         return urlList
 
     #retrieves a list of article links
