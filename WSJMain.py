@@ -33,10 +33,7 @@ with open('wsjSentiment.csv', 'w' , newline="") as file:
 
         for q in quarter:
             url = q.getText()
-            #print("articles: "+ url)
-            #extract title from url
             title = wsj.getTitle(url)
-            #print(title)
             score = sentimentCheck.analyze(title)
             
             row = sentimentCheck.prettyRow(title, score, url)
