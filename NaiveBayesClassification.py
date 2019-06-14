@@ -30,15 +30,15 @@ esgTrain = pd.read_csv(r"C:\Users\chias\source\repos\FFMCRAWL\data files\ESG Dat
 noesgTrain = pd.read_csv(r"C:\Users\chias\source\repos\FFMCRAWL\data files\sample.csv")
 print("Training dataset imported")
 
-etTest = pd.read_csv(r"C:\Users\chias\source\repos\FFMCRAWL\et.csv")
+etTest = pd.read_csv(r"C:\Users\chias\source\repos\FFMCRAWL\bbg.csv")
 print("Testing dataset imported")
 
 
 
 #retrieve useful columns with useful data
-esgUse = esgTrain[['Title', 'ESG', 'neg', 'neu', 'pos', 'compound' ]]
-samUse = noesgTrain[['Title', 'ESG', 'neg', 'neu', 'pos', 'compound']]
-etUse = etTest[['Title', 'neg', 'neu', 'pos', 'compound']]
+esgUse = esgTrain[['Title', 'ESG', 'compound' ]]
+samUse = noesgTrain[['Title', 'ESG', 'compound']]
+etUse = etTest[['Title', 'compound', 'Link to article']]
 
 #join both sets of data together
 allSample = esgUse.append(samUse)
@@ -97,8 +97,8 @@ output = pd.DataFrame(data=etUse)
 output['pred'] = baes.predict(x_test)
 
 print(list(output))
-usableData = output[[ 'Title', 'compound', 'pred']]
-usableData.to_csv('etOutput.csv')
+usableData = output[[ 'Title', 'compound', 'pred', 'Link to article']]
+usableData.to_csv('bbgOutput.csv')
 
 end = time.time() - start
 print("Total time taken: "+ str(end))
