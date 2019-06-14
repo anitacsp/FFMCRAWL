@@ -27,7 +27,7 @@ class siteReader:
 
     def getDates(self):
         content = self.getPage()
-        date = content.findAll('news:publication_date')
+        date = content.findAll('lastmod')
         #print(date)
         return date
 
@@ -67,6 +67,25 @@ class siteReader:
                 array.append(row)
         
         return array 
+
+    def iterateBBG(self, indexURL, tr, sc, years, exit):
+        array = []
+
+        for map in indexURL:
+            if any(x in map.getText() for x in years):
+                articleList = self.articleIndex(map)
+
+                for article in articleList:
+                    url = article.getText()
+                    title = tr.getTitle(url)
+                    score = sc.analyze(title)
+
+                    row = sc.prettyRow(title, score, url)
+                    array.append(row)
+            elif exit in map.getText():
+                print("out")
+                break
+        return array
 
     def iterateArticle(self, articleURL, pubDate, tr, sc, endYear):
         array = []
