@@ -23,9 +23,20 @@ class sentimentAnalysis:
     def prettyRow(self, title, score, url):
         row =[title]
 
-        for i in score:
-            row.append(score.get(i))
+        compound = score.get('compound')
+        row.append(compound)
         
+        sent = 2
+        if compound <= -0.6:
+            sent =-2
+        elif compound <= -0.2:
+            sent = -1
+        elif compound < 0.2:
+            sent = 0
+        elif compound <= 0.6:
+            sent = 1
+
+        row.append(sent)
         row.append(url)
         return row
         
