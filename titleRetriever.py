@@ -28,13 +28,17 @@ class titleRetriever:
              title = self.etTitle(url)
          if self.website == 'indianexpress':
             title = self.ieTitle(url)
+         if self.website == 'scmp':
+            title = self.scmp(url)
+         if self.website == 'bbg':
+            title = self.scmp(url)
 
          return title
 
      #stores content to specified filepath
      def toCSV(self, outputFilename, content):
 
-        csvHeader = ["Title" ,"neg ", "neu" , "pos" , "compound" , "Link to article"]
+        csvHeader = ["Title" ,  "compound" ,"sent", "Link to article"]
 
         with open(outputFilename, 'w', newline = "") as file:
             writer = csv.writer(file)
@@ -71,6 +75,15 @@ class titleRetriever:
         url = url[0:len(url)-1]
 
         return self.wsjTitle(url)
+     
+     def scmp(self, url):
+         removeDomain = url.rsplit('/',1)
+         almostTitle = removeDomain[1]
+
+         cleanTitle = almostTitle.replace("-", " ")
+         cleanTitle = self.clean(cleanTitle)
+
+         return cleanTitle
      
      def clean(self, title):
         for r in self.replacementWords:
